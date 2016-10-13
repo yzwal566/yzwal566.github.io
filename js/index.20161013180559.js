@@ -13,14 +13,14 @@ $('.js-6').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-151.png' : 'images/zh
 $('.js-8').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-151-1.png' : 'images/zhan-tie-tu-xiang-76-2.png');
 $('.js-9').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-231.png' : 'images/zhan-tie-tu-xiang-115.png');
 $('.js-10').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-227.png' : 'images/zhan-tie-tu-xiang-114.png');}else{$('.js').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-77.png' : 'images/zhan-tie-tu-xiang-39.png');
-$('.js-2').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-178.png' : 'images/zhan-tie-tu-xiang-89.png');
+$('.js-2').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-254.png' : 'images/zhan-tie-tu-xiang-127.png');
 $('.js-3').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-68.png' : 'images/zhan-tie-tu-xiang-34.png');
-$('.js-4').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-51.png' : 'images/zhan-tie-tu-xiang-25.png');
-$('.js-5').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-75.png' : 'images/zhan-tie-tu-xiang-38.png');
-$('.js-6').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-50.png' : 'images/zhan-tie-tu-xiang-25-1.png');
-$('.js-8').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-50-1.png' : 'images/zhan-tie-tu-xiang-25-2.png');
-$('.js-9').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-77-1.png' : 'images/zhan-tie-tu-xiang-38-1.png');
-$('.js-10').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-76-3.png' : 'images/zhan-tie-tu-xiang-38-2.png');}}};
+$('.js-4').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-50-2.png' : 'images/zhan-tie-tu-xiang-25.png');
+$('.js-5').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-76-4.png' : 'images/zhan-tie-tu-xiang-38.png');
+$('.js-6').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-50-3.png' : 'images/zhan-tie-tu-xiang-25-1.png');
+$('.js-8').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-50-4.png' : 'images/zhan-tie-tu-xiang-25-2.png');
+$('.js-9').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-76-5.png' : 'images/zhan-tie-tu-xiang-38-1.png');
+$('.js-10').attr('src', (dpi>1) ? 'images/zhan-tie-tu-xiang-74.png' : 'images/zhan-tie-tu-xiang-37.png');}}};
 if(!window.HTMLPictureElement){$(window).resize(r);r();}
 var wl = new woolite();
 wl.init();
